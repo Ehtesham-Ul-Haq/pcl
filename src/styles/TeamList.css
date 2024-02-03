@@ -1,3 +1,9 @@
-.TeamList {
-    margin-top: 20px;
-  }
+.cards-container {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 3fr);
+}
+
+.card {
+  margin-bottom: 20px;
+}

@@ -30,29 +30,12 @@ export default function NavBar(props) {
                     <li className="nav-item">
                     <Link className="nav-link h2" aria-current="page" to="/">Home</Link>
                     </li>
-                    <li className="nav-item dropdown">
-                        <Link className="nav-link dropdown-toggle dropdown-toggle-split h2" to="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Teams
-                        </Link>
-                        <ul className="dropdown-menu my-dropdown-bg">
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Team</Link></li>
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Team</Link></li>
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Team</Link></li>
-                            <li><hr className="dropdown-divider" /></li>
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Click for More</Link></li>
-                        </ul>
-                    </li>     
-                    <li className="nav-item dropdown">
-                        <Link className="nav-link dropdown-toggle dropdown-toggle-split h2" to="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Players
-                        </Link>
-                        <ul className="dropdown-menu my-dropdown-bg">
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Players</Link></li>
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Players</Link></li>
-                            <li><hr className="dropdown-divider" /></li>
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Click for More</Link></li>
-                        </ul>
-                    </li>   
+                    <li className="nav-item">
+                    <Link className="nav-link h2" aria-current="page" to="/All-Teams">Teams</Link>
+                    </li>
+                    <li className="nav-item">
+                    <Link className="nav-link h2" aria-current="page" to="/All-Players">Players</Link>
+                    </li>
                     <li className="nav-item dropdown">
                         <Link className="nav-link dropdown-toggle dropdown-toggle-split h2" to="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Tournament
@@ -61,7 +44,7 @@ export default function NavBar(props) {
                             <li><Link className="dropdown-item my-dropdown-color" to="/">Tournament</Link></li>
                             <li><Link className="dropdown-item my-dropdown-color" to="/">Tournament</Link></li>
                             <li><hr className="dropdown-divider" /></li>
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Click for More</Link></li>
+                            <li><Link className="dropdown-item my-dropdown-color" to="/All-Tournament">Click to See All</Link></li>
                         </ul>
                     </li>          
                 </ul>

@@ -1,13 +1,11 @@
 import React from 'react'
-import TeamList from '../components/TeamList';
-import TeamForm from '../components/TeamForm';
+import PlayerForm from '../components/PlayerForm';
 
 export default function TeamPage() {
   return (
     <div>
       <h2>Team Page</h2>
-      <TeamList />
-      <TeamForm />
+      <PlayerForm />
       {/* Display team details and manage teams */}
     </div>
   )
