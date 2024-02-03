@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/TournamentStats.css';
 
 export default function TournamentStats() {
   return (

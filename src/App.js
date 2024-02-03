@@ -4,21 +4,20 @@ import Home from './pages/Home';
 import TeamPage from './pages/TeamPage';
 import PlayerPage from './pages/PlayerPage';
 import TournamentPage from './pages/TournamentPage';
+import NavBar from './components/NavBar';
+import Footer from './components/Footer';
 import './styles/App.css';
+import logoImage from './logo.png'
 
 function App() {
+  
+  
+
   return (
     <>
       <Router>
             <div className="App">
-              <header>
-                <nav>
-                  <div>
-                  <h1>Paper Cricket League</h1>
-                  <div><img src="" alt="" /></div>
-                  </div>
-                </nav>
-              </header>
+                <NavBar logoImage={logoImage} />
               <main>
                 <Routes>
                   <Route path="/" exact component={Home} />
@@ -27,9 +26,7 @@ function App() {
                   <Route path="/tournament" component={TournamentPage} />
                 </Routes>
               </main>
-              <footer>
-                <p>&copy; 2024 Cricket Tournament Manager</p>
-              </footer>
+              <Footer />
             </div>
       </Router>
     </>

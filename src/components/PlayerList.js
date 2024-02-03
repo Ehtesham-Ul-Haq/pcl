@@ -1,4 +1,5 @@
 import React from 'react'
+import '../styles/PlayerList.css';
 
 export default function PlayerList() {
   return (

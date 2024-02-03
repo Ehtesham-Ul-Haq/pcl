@@ -1,0 +1,14 @@
+/* styles/ColorPalette.css */
+
+.ColorPalette {
+    display: flex;
+  }
+  
+  .ColorOption {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  
