@@ -1,12 +1,20 @@
 import React from 'react'
-import PlayerForm from '../components/PlayerForm';
+import { BrowserRouter } from 'react-router-dom'
 
 export default function TeamPage() {
   return (
-    <div>
-      <h2>Team Page</h2>
-      <PlayerForm />
-      {/* Display team details and manage teams */}
-    </div>
+    <BrowserRouter>
+      <div className='container'>
+
+        <h2>Team Page</h2>
+     
+        {/* Display team details and manage teams */}
+        <div className="team-data">
+            <Routes>
+                <Route path="/" exact element={<Home />} />
+            </Routes>
+        </div>
+      </div>
+    </BrowserRouter>
   )
 }

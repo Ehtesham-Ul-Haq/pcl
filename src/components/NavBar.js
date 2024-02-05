@@ -11,6 +11,7 @@ export default function NavBar(props) {
   const handleColorSelect = (color) => {
     setSelectedColor(color);
     document.body.style.backgroundColor = color;
+    document.body.style.color = "#fff"
   };
 
   return (
@@ -31,26 +32,16 @@ export default function NavBar(props) {
                     <Link className="nav-link h2" aria-current="page" to="/">Home</Link>
                     </li>
                     <li className="nav-item">
-                    <Link className="nav-link h2" aria-current="page" to="/All-Teams">Teams</Link>
+                    <Link className="nav-link h2" aria-current="page" to="/About-us">About Us</Link>
                     </li>
                     <li className="nav-item">
-                    <Link className="nav-link h2" aria-current="page" to="/All-Players">Players</Link>
+                    <Link className="nav-link h2" aria-current="page" to="/Contact-Us">Contact Us</Link>
                     </li>
-                    <li className="nav-item dropdown">
-                        <Link className="nav-link dropdown-toggle dropdown-toggle-split h2" to="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Tournament
-                        </Link>
-                        <ul className="dropdown-menu my-dropdown-bg">
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Tournament</Link></li>
-                            <li><Link className="dropdown-item my-dropdown-color" to="/">Tournament</Link></li>
-                            <li><hr className="dropdown-divider" /></li>
-                            <li><Link className="dropdown-item my-dropdown-color" to="/All-Tournament">Click to See All</Link></li>
-                        </ul>
-                    </li>          
                 </ul>
-                </div>
                 <div>
                 <ColorPalette colors={['#020527', '#022310', '#320202']} onSelectColor={handleColorSelect} />
+                </div>
+                
                 </div>
             </div>
         </nav>            
