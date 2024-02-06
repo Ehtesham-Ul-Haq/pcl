@@ -6,8 +6,7 @@ import '../styles/TeamList.css';
 export default function TeamForm(props) {
   return (
     <div>
-      <div className="cards-container">
-          <div className="card" style={{width: '20rem'}}>
+          <div className="card" >
               <img src={props.TeamPicture} className="card-img-top" alt="..." />
               <div className="card-body">
                 <h5 className="card-title">{props.title.toUpperCase()}</h5>
@@ -15,7 +14,6 @@ export default function TeamForm(props) {
                 <Link to="/" className="btn btn-success">{props.title} Profile</Link>
               </div>
           </div>   
-      </div>
     </div>
   )
 }

@@ -4,7 +4,7 @@ import '../styles/Footer.css';
 export default function Footer() {
   return (
         <footer  className='bg-body-secondary'>
-            <p>&copy; 2024 Cricket Tournament Manager</p>
+            <p>&copy; 2024 Paper Cricket League</p>
           <div className='social-links'>
             <i class="bi bi-facebook"></i>
             <i class="bi bi-whatsapp"></i>

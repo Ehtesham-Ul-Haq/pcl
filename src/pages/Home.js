@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 import '../styles/Home.css';
 import TypedText from '../components/TypedText';
+import AboutUs from '../components/AboutUs';
 
 
 
@@ -76,6 +77,11 @@ export default function Home() {
                 </div>
             </div>
         </nav>
+
+          <div className="container">
+              <AboutUs />
+          </div>
+       
     </div>
   )
 }

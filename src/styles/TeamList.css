@@ -2,6 +2,17 @@
   margin-top: 20px;
   padding: 5px;
 }
+
+.container h2 {
+  color: rgb(131, 7, 7);
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+}
+
+.container h2 span {
+  color: rgb(15, 109, 15);
+}
+
 .cards-container {
   margin-top: 20px;
   display: grid;
@@ -10,4 +21,22 @@
 
 .card {
   margin-bottom: 20px;
+  width: 20rem;
+}
+
+.card img {
+  transition: transform 0.3s ease;
+}
+.card img:hover {
+  transform: scale(1.03);
+  opacity: 0.9;
+}
+
+/* Example of a media query for smaller screens */
+@media screen and (max-width: 768px) {
+  /* CSS rules for smaller screens */
+  .cards-container {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0 6% ;
+  }
 }
