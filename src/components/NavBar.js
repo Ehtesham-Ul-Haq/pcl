@@ -32,7 +32,7 @@ export default function NavBar(props) {
                     <Link className="nav-link h2" aria-current="page" to="/">Home</Link>
                     </li>
                     <li className="nav-item">
-                    <Link className="nav-link h2" aria-current="page" to="/About-us">About Us</Link>
+                    <Link className="nav-link h2" aria-current="page" to="https://github.com/Ehtesham-Ul-Haq">Github</Link>
                     </li>
                     <li className="nav-item">
                     <Link className="nav-link h2" aria-current="page" to="/Contact-Us">Contact Us</Link>
