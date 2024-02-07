@@ -4,19 +4,20 @@
 }
 
 
-  /* About Section */
 
 .about-container {
-    max-width: 800px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 40px 20px;
+    border: 1px solid black;
+    border-radius: 3%;
   }
-  
   .title {
     font-size: 2.5rem;
     font-weight: bold;
     color: #333; /* Adjust color as needed */
     margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
   }
   
   .description {

@@ -14,7 +14,7 @@ export default function ColorPalette(props){
         <div
           key={index}
           className="ColorOption"
-          style={{ backgroundColor: color }}
+          style={{ backgroundColor: color}}
           onClick={() => onSelectColor(color)}
         />
       ))}

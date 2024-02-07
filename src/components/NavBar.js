@@ -11,7 +11,7 @@ export default function NavBar(props) {
   const handleColorSelect = (color) => {
     setSelectedColor(color);
     document.body.style.backgroundColor = color;
-    document.body.style.color = "#fff"
+    document.body.style.color = '#fff';
   };
 
 

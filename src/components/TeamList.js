@@ -19,7 +19,7 @@ export default function TeamList() {
 
   return (
     <div className='container'>
-      <h2>Team <span>List</span></h2>
+      <h2><span>Team </span>List</h2>
             {/* Displaying a list of teams */}
       <div className='cards-container'>
 
