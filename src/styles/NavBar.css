@@ -1,6 +1,12 @@
+#navbarSupportedContent {
+    position: relative;
+    width: 100%;
+}
+
 
 .my-dropdown-bg {
     background-color: #05351c;
+   
 }
 
 .my-dropdown-color {
@@ -9,4 +15,9 @@
 
 hr {
     border:1px solid #fff;
+}
+
+.nav-item.dropdown:hover .dropdown-menu.my-dropdown-bg {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
 }

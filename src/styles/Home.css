@@ -3,26 +3,6 @@
     text-align: center;
 }
 
-.team-nav {
-    background-color: black;
-    border-radius: 0px 70px;
-}
-
-.team-nav-collapse {
-    padding: 0px 10px;
-}
-
-.team-nav .navbar-toggler {
-    background-color: white;
-    margin-left: 15px;
-}
-
-.nav-item.dropdown:hover .dropdown-menu.my-dropdown-bg {
-    display: grid;
-    grid-template-columns: repeat(7, 1fr);  
-  }
-
-
 
   /* About Section */
 
