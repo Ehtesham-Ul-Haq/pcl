@@ -1,9 +1,11 @@
 .container h2 {
-    display: flex;
-    text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
 }
 
-
+/* about component styles */
 
 .about-container {
     max-width: 1200px;
@@ -15,7 +17,6 @@
   .title {
     font-size: 2.5rem;
     font-weight: bold;
-    color: #333; /* Adjust color as needed */
     margin-bottom: 20px;
     font-family: 'Playfair Display', serif;
   }
@@ -27,3 +28,94 @@
     margin-bottom: 20px;
   }
   
+
+  /* Contact component styles */
+#Contact-Us {
+  width: 1200px;
+  margin: 50px auto;
+  padding: 40px 20px;
+  border: 1px solid black;
+  border-radius: 3%;
+
+}
+
+#Contact-Us h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.contact-info {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-info h3 {
+  font-size: 1.5rem;
+  color: #004c8c; 
+}
+
+.contact-info address {
+  text-align: start;
+}
+
+.contact-form {
+  flex: 1;
+  padding: 20px;
+}
+
+.contact-form form {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form form input[type="text"],
+.contact-form form input[type="email"],
+.contact-form form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+
+.contact-form form textarea {
+  height: 150px;
+}
+
+.contact-form form input[type="submit"] {
+  width: 100%;
+  background-color: #004c8c; /* Cricket blue color */
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-form form input[type="submit"]:hover {
+  background-color: #003366; /* Darker shade of cricket blue */
+}
+
+/* Media query for responsiveness */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .contact-info,
+  .contact-form {
+    width: 100%;
+  }
+}
