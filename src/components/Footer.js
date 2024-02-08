@@ -6,10 +6,10 @@ export default function Footer() {
         <footer  className='bg-body-secondary'>
             <p>&copy; 2024 Paper Cricket League</p>
           <div className='social-links'>
-            <i class="bi bi-facebook"></i>
-            <i class="bi bi-whatsapp"></i>
-            <i class="bi bi-github"></i>
-            <i class="bi bi-twitter-x"></i>
+            <i className="bi bi-facebook"></i>
+            <i className="bi bi-whatsapp"></i>
+            <i className="bi bi-github"></i>
+            <i className="bi bi-twitter-x"></i>
           </div>
         </footer>
   )

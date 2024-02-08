@@ -11,8 +11,7 @@ export default function ContactUs() {
           <div className="info-details">
             <address>
               <p>Name:Babar Azam</p>
-              <p>123 Main Street</p>
-              <p>Gujranwala, Punjab, 52330</p>
+              <p>123 Main Street, Gujranwala, Punjab, 52330</p>
               <p>Email: babar123@example.com</p>
               <p>Phone: 123-456-7890</p>
             </address>
