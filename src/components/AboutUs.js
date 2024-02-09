@@ -3,7 +3,7 @@ import '../styles/Home.css';
 
 export default function AboutUs() {
   return (
-    <div className="about-container" style={{ color: document.body.style.backgroundColor !== 'null' ? '#fff' : '' }}>
+    <div className="about-container">
       <h2 className="title"><span>About PCL - </span> - Paper Cricket League</h2>
       <p className="description">
         Welcome to PCL - Paper Cricket League, your ultimate destination for all things cricket! 

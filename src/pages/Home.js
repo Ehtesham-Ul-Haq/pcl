@@ -5,6 +5,7 @@ import AboutUs from '../components/AboutUs';
 import ContactUs from '../components/ContactUs';
 import FeaturedContent from '../components/FeaturedContent';
 import TournamentPicture from '../components/img/template image.png'
+import NewsAndBlogs from '../components/NewsAndBlogs';
 
 
 
@@ -27,8 +28,8 @@ export default function Home() {
 
             </div>
             <AboutUs />
+            <NewsAndBlogs TournamentPicture={TournamentPicture} />
             <ContactUs />
-                  
           </div>
        
     </div>

@@ -115,7 +115,7 @@ export default function NavBar(props) {
           
 
                 <div>
-                <ColorPalette colors={['#020527', '#022310', '#320202']} onSelectColor={handleColorSelect} />
+                <ColorPalette colors={['#020527', '#022310', '#0A0A0A']} onSelectColor={handleColorSelect} />
                 </div>
                 
                 </div>

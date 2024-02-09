@@ -3,10 +3,11 @@
   font-weight: bold;
   display: flex;
   justify-content: center;
+  text-shadow: 0 0 3px #ffffff, 0 0 5px #ffffff, 0 0 7px #ffffff;
 }
 
 .featured-content-container{
-  border: 1px solid black;
+  border: 1px solid;
   padding: 15px;
   margin: 50px auto;
   border-radius: 3%;
@@ -27,7 +28,7 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 40px 20px;
-    border: 1px solid black;
+    border: 1px solid;
     border-radius: 3%;
   }
   .title {
@@ -40,7 +41,6 @@
   .description {
     font-size: 1.2rem;
     line-height: 1.6;
-    color: #666; /* Adjust color as needed */
     margin-bottom: 20px;
   }
   
@@ -49,7 +49,7 @@
 #Contact-Us {
   margin: 50px auto;
   padding: 40px 20px;
-  border: 1px solid black;
+  border: 1px solid;
   border-radius: 3%;
 
 }
@@ -191,4 +191,84 @@
 .featured-content-container .featured-item .featured-details button:hover {
   background-color: white; 
   color: rgb(131, 7, 7);
+}
+
+
+
+/* NewsAndBlogs component styles */
+
+
+
+.latest-news {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  border: 1px solid;
+  border-radius: 3%;
+}
+
+.latest-news h2 {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.news-container {
+  padding: 10px;
+}
+
+.news-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 30px;
+  border-radius: 3%;  
+  gap: 20px;
+}
+
+.news-item {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid;
+  border-radius: 3%;
+}
+
+.news-item img {
+  width: 50%;
+  height: 150px;
+}
+
+.news-details {
+  padding: 15px;
+}
+
+.news-details h3 {
+  color: rgb(15, 109, 15);
+  font-size: 1.5rem;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.news-details p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.news-details span {
+  color: #666;
+  font-size: 14px;
+}
+
+.news-details a {
+  color: rgb(131, 7, 7);
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.news-details a:hover {
+  text-decoration: underline;
 }
