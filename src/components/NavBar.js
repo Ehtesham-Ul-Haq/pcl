@@ -38,7 +38,7 @@ export default function NavBar(props) {
   return (
     <div>
                 
-        <nav className="navbar navbar-expand-lg bg-body-secondary">
+        <nav className="navbar navbar-expand-lg bg-body shadow">
             <div className="container-fluid">
                 <Link className="navbar-brand h1 me-4" to="/">
                     <img src={props.logoImage} alt="Logo" width="50" height="30" className="d-inline-block align-text-top me-4" />

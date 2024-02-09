@@ -3,7 +3,7 @@ import '../styles/Footer.css';
 
 export default function Footer() {
   return (
-        <footer  className='bg-body-secondary'>
+        <footer className="bg-body">
             <p>&copy; 2024 Paper Cricket League</p>
           <div className='social-links'>
             <i className="bi bi-facebook"></i>
