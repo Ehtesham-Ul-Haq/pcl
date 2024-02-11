@@ -4,15 +4,14 @@ import PropTypes from 'prop-types';
 import '../styles/TeamList.css';
 
 export default function TeamForm(props) {
+
+
   return (
     <div>
-          <div className="card" >
-              <img src={props.TeamPicture} className="card-img-top" alt="..." />
-              <div className="card-body">
-                <h5 className="card-title">{props.title.toUpperCase()}</h5>
-                <p className="card-text">{props.detail}</p>
-                <Link to="/" className="btn btn-success">{props.title} Profile</Link>
-              </div>
+          <div className="btn" > 
+                <img src={props.TeamPicture} className='btn-img' alt="" />
+                <h5 className="btn-title">{props.title.toUpperCase()}</h5>
+                <Link to='/TeamPage' className="btn btn-success">Visit {props.title} Profile</Link>             
           </div>   
     </div>
   )

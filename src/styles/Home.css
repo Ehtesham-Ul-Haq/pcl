@@ -9,7 +9,7 @@
 .featured-content-container{
   border: 1px solid;
   padding: 15px;
-  margin: 50px auto;
+  margin: 20px auto;
   border-radius: 3%;
 
 }
@@ -26,7 +26,7 @@
 
 .about-container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 20 auto;
     padding: 40px 20px;
     border: 1px solid;
     border-radius: 3%;
@@ -47,7 +47,7 @@
 
   /* Contact component styles */
 #Contact-Us {
-  margin: 50px auto;
+  margin: 20px auto;
   padding: 40px 20px;
   border: 1px solid;
   border-radius: 3%;
@@ -200,8 +200,8 @@
 
 
 .latest-news {
-  width: 1200px;
-  margin: 0 auto;
+  max-width: 1200px;
+  margin: 20 auto;
   padding: 40px 20px;
   border: 1px solid;
   border-radius: 3%;

@@ -1,19 +1,18 @@
 import React from 'react'
-import { BrowserRouter } from 'react-router-dom'
-import Home from './Home'
+import '../styles/TeamPage.css'
+import TeamDetails from '../components/TeamDetails'
 
-export default function TeamPage() {
+
+export default function TeamPage(props) {
+  console.log(props.title);
   return (
-    <BrowserRouter>
       <div className='container'>
-          <Home />
-        <h2>Team Page</h2>
+        <h2><span>Team &nbsp;</span> Page</h2>
      
         {/* Display team details and manage teams */}
         <div className="team-data">
-            
+            <TeamDetails title={props.title} />
         </div>
       </div>
-    </BrowserRouter>
   )
 }

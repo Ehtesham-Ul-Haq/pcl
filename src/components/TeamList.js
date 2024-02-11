@@ -1,6 +1,5 @@
 import React from 'react';
 import '../styles/TeamList.css';
-// import { Link } from 'react-router-dom';
 import TeamForm from './TeamForm.js'
 import TeamPicture from './img/template image.png'
 
@@ -13,7 +12,6 @@ export default function TeamList() {
                       'Unknown Stars', 'The Champions', 'Thunders XI', 'Hunters XI', 'Super Stars XI', 'Royal Players', 'Dominators XI', 'Haq Fighters',
                       'Blazing Warriors', 'Strikers XI', 'Indian Tigers', 'English Lions', 'Gorkhali Champions'];
 
-  const teamDetailsArray = ['4 Times Winning Team'];
   const teamPicArray = [TeamPicture];
 
 
@@ -30,12 +28,9 @@ export default function TeamList() {
             key={team} // Use a unique key for each component
             TeamPicture={teamPicArray[0]} // Pass TeamPicture from the corresponding index in teamPicArray
             title={team} // Pass title from the current item in teamsArray
-            detail={teamDetailsArray[0]} // Assuming teamDetailsArray has a single detail for each team
           />
         ))}
       </div>
-      
-      
 
     </div>
   )
