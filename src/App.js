@@ -8,6 +8,7 @@ import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import './styles/App.css';
 import logoImage from './logo.png';
+import ErrorPage from './pages/ErrorPage';
 
 import GreenStars from './TeamPages/GreenStars';
 import OttomanFighters from './TeamPages/OttomanFighters';
@@ -42,7 +43,7 @@ import GorkhaliChampions from './TeamPages/GorkhaliChampions';
 
 
 
-function App(props) {
+function App() {
 
 
 
@@ -57,7 +58,9 @@ function App(props) {
                   <Route path="/All-Teams" element={<TeamList />} />
                   <Route path="/All-Players/*" element={<PlayerList />} />
                   <Route path="/All-Tournament/*" element={<TournamentStats />} />
-                  
+
+                  <Route path="/ErrorPage" element={<ErrorPage />} />
+
                   <Route path="/GreenStars" element={<GreenStars />} />
                   <Route path="/OttomanFighters" element={<OttomanFighters />} />
                   <Route path="/VikriansStars" element={<VikriansStars />} />

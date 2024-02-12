@@ -1,14 +1,12 @@
 import React from 'react'
 import '../styles/TeamPage.css'
-import TeamDetails from '../components/TeamDetails'
 import { Link } from 'react-router-dom';
 
 
-export default function TeamPage(props) {
-  console.log(props.title);
+export default function ErrorPage() {
   return (
       <div className='container'>
-        <h2><span>Error &nbsp;</span> 404</h2>
+        <h2><span>Page Not&nbsp;</span> Find</h2>
         <Link to="/">go to homepage</Link>
       </div>
   )

@@ -1,3 +1,39 @@
+.container {
+    font-style: italic;
+}
+
 h3 {
     color: green;
+}
+
+strong {
+    /* color: rgb(15, 109, 15); */
+    color: rgb(131, 7, 7);
+}
+
+/* .team-details {
+} */
+
+.detail-box {
+    display: flex;
+    align-items: center;
+}
+
+.team-logo {
+    width: 35%;
+}
+
+.team-logo img {
+    width: 50%;
+}
+
+.team-info {
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    column-gap: 50px;
+    row-gap: 20px;
+}
+
+.info-div {
+    text-align: start;
 }
