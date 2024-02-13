@@ -5,7 +5,6 @@ export default function TeamDetails(props) {
 
   return (
     <div>
-      <h2>{props.title}</h2>
       <h3>Team Details</h3>
       <div className='detail-box'>
 
@@ -34,8 +33,20 @@ export default function TeamDetails(props) {
                 <p><i class="bi bi-diamond-fill"></i> {props.TopBowler}</p>
               </div>
               <div className='info-div'>
-                <p><strong><i class="bi bi-diamond-fill"></i>Best Captain:</strong></p> 
-                <p><i class="bi bi-diamond-fill"></i> {props.BestCaptain}</p>
+                <p><strong><i class="bi bi-diamond-fill"></i>Status:</strong></p> 
+                <p><i class="bi bi-diamond-fill"></i> {props.Status}</p>
+              </div>
+              <div className='info-div'>
+                <p><strong><i class="bi bi-diamond-fill"></i>Active Captain:</strong></p> 
+                <p><i class="bi bi-diamond-fill"></i> {props.ActiveCaptain}</p>
+              </div>
+              <div className='info-div'>
+                <p><strong><i class="bi bi-diamond-fill"></i>Active Coach:</strong></p> 
+                <p><i class="bi bi-diamond-fill"></i> {props.ActiveCoach}</p>
+              </div>
+              <div className='info-div'>
+                <p><strong><i class="bi bi-diamond-fill"></i>Recent Participation:</strong></p> 
+                <p><i class="bi bi-diamond-fill"></i> {props.RecentParticipation}</p>
               </div>
 
               {/* Add more team details as needed */}

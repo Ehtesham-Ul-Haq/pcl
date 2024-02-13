@@ -2,8 +2,27 @@
     font-style: italic;
 }
 
+/* teampagenav styling */
+
+nav {
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+}
+
+/* teamdetails styling */
+
 h3 {
     color: green;
+}
+
+.team-data {
+    margin: 20px;
+}
+
+.team-data h3 {
+    margin: 20px;
+    text-decoration: underline;
 }
 
 strong {
@@ -11,8 +30,7 @@ strong {
     color: rgb(131, 7, 7);
 }
 
-/* .team-details {
-} */
+
 
 .detail-box {
     display: flex;
@@ -36,4 +54,39 @@ strong {
 
 .info-div {
     text-align: start;
+}
+
+/*  TeamAchievements styling  */
+
+.Team-Achievements-div {
+    padding: 10px;
+}
+
+
+.Team-Achievements-div h3{
+    margin: 20px;
+    text-decoration: underline;
+}
+
+.Team-Achievements{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.Team-Achievements ul {
+    list-style-type:decimal;
+    width: 70%;
+}
+
+.Team-Achievements ul li{
+text-align: start;
+}
+
+.achievements-img {
+    width: 30%;
+}
+
+.achievements-img img {
+    width: 100%;
 }
