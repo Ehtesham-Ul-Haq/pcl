@@ -1,35 +1,34 @@
-
 [
-    {
-      "name": "green-stars",
+  {
+    "name": "green-stars",
+    "title": "Green Stars",
+    "details": {
       "title": "Green Stars",
-      "details": {
-        "title": "Green Stars",
-        "TeamLogo": "teamlogo.png",
-        "owner": "Ehtesham",
-        "remarks": "4 Times Trophy Winner",
-        "TopBatter": "Alex Hales",
-        "TopBowler": "Umar Gul",
-        "Status": "Active",
-        "ActiveCaptain": "Imad Wasim",
-        "ActiveCoach": "Misbah Ul Haq",
-        "RecentParticipation": "PCL-40"
-      },
-      "achievements": {
-        "Achievementsimg": "achievements.png",
-        "a1": "Title Winner",
-        "a2": "Consecutive Title Winner",
-        "a3": "10 Consecutive Matches Winner"
-      },
-      "stats": [
-        { "SrNo": 1, "scorer": "Alex Hales", "wicketTaker": "Umar Gul", "mostPotM": "Umar Gul" },
-        { "SrNo": 2, "scorer": "Misbah Ul Haq", "wicketTaker": "Tim Southee", "mostPotM": "Imad Wasim" },
-        { "SrNo": 3, "scorer": "Rohit Sharma", "wicketTaker": "Imad Wasim", "mostPotM": "Tim Southee" },
-        { "SrNo": 4, "scorer": "Imad Wasim", "wicketTaker": "Rumman Raees", "mostPotM": "Adam Zampa" },
-        { "SrNo": 5, "scorer": "Umar Amin", "wicketTaker": "Adam Zampa", "mostPotM": "Alex Hales" }    
-        
-      ]
+      "TeamLogo": "teamlogo.png",
+      "owner": "Ehtesham",
+      "remarks": "4 Times Trophy Winner",
+      "TopBatter": "Alex Hales",
+      "TopBowler": "Umar Gul",
+      "Status": "Active",
+      "ActiveCaptain": "Imad Wasim",
+      "ActiveCoach": "Misbah Ul Haq",
+      "RecentParticipation": "PCL-40"
     },
+    "achievements": {
+      "Achievementsimg": "achievements.png",
+      "a1": "Title Winner",
+      "a2": "Consecutive Title Winner",
+      "a3": "10 Consecutive Matches Winner"
+    },
+    "stats": [
+      { "SrNo": 1, "scorer": "Alex Hales", "wicketTaker": "Umar Gul", "mostPotM": "Umar Gul" },
+      { "SrNo": 2, "scorer": "Misbah Ul Haq", "wicketTaker": "Tim Southee", "mostPotM": "Imad Wasim" },
+      { "SrNo": 3, "scorer": "Rohit Sharma", "wicketTaker": "Imad Wasim", "mostPotM": "Tim Southee" },
+      { "SrNo": 4, "scorer": "Imad Wasim", "wicketTaker": "Rumman Raees", "mostPotM": "Adam Zampa" },
+      { "SrNo": 5, "scorer": "Umar Amin", "wicketTaker": "Adam Zampa", "mostPotM": "Alex Hales" }    
+    ]
+  },
+  
 
 
 
