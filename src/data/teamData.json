@@ -1,0 +1,994 @@
+
+[
+    {
+      "name": "green-stars",
+      "title": "Green Stars",
+      "details": {
+        "title": "Green Stars",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Ehtesham",
+        "remarks": "4 Times Trophy Winner",
+        "TopBatter": "Alex Hales",
+        "TopBowler": "Umar Gul",
+        "Status": "Active",
+        "ActiveCaptain": "Imad Wasim",
+        "ActiveCoach": "Misbah Ul Haq",
+        "RecentParticipation": "PCL-40"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Title Winner",
+        "a2": "Consecutive Title Winner",
+        "a3": "10 Consecutive Matches Winner"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Alex Hales", "wicketTaker": "Umar Gul", "mostPotM": "Umar Gul" },
+        { "SrNo": 2, "scorer": "Misbah Ul Haq", "wicketTaker": "Tim Southee", "mostPotM": "Imad Wasim" },
+        { "SrNo": 3, "scorer": "Rohit Sharma", "wicketTaker": "Imad Wasim", "mostPotM": "Tim Southee" },
+        { "SrNo": 4, "scorer": "Imad Wasim", "wicketTaker": "Rumman Raees", "mostPotM": "Adam Zampa" },
+        { "SrNo": 5, "scorer": "Umar Amin", "wicketTaker": "Adam Zampa", "mostPotM": "Alex Hales" }    
+        
+      ]
+    },
+
+
+
+    {
+      "name": "ottoman-fighters",
+      "title": "Ottoman Fighters",
+      "details": {
+        "title": "Ottoman Fighters",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+    
+
+
+    {
+      "name": "vikrians-stars",
+      "title": "Vikrians Stars",
+      "details": {
+        "title": "Vikrians Stars",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "super-gladiators",
+      "title": "Super Gladiators",
+      "details": {
+        "title": "Super Gladiators",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "red-sun",
+      "title": "RedSun",
+      "details": {
+        "title": "RedSun",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "rex-killers",
+      "title": "Rex Killers",
+      "details": {
+        "title": "Rex Killers",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+    {
+      "name": "young-stars",
+      "title": "Young Stars",
+      "details": {
+        "title": "Young Stars",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "conquerors-xi",
+      "title": "Conquerors XI",
+      "details": {
+        "title": "Conquerors XI",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+    
+    
+    {
+      "name": "cricket-warriors",
+      "title": "Cricket Warriors",
+      "details": {
+        "title": "Cricket Warriors",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "street-knights",
+      "title": "Street Knights",
+      "details": {
+        "title": "Street Knights",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "xi-stars",
+      "title": "XI Stars",
+      "details": {
+        "title": "XI Stars",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "tiger-return",
+      "title": "Tiger Return",
+      "details": {
+        "title": "Tiger Return",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "king-fighters",
+      "title": "King Fighters",
+      "details": {
+        "title": "King Fighters",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "shinning-stars",
+      "title": "Shinning Stars",
+      "details": {
+        "title": "Shinning Stars",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "burn-it-down",
+      "title": "Burn It Down",
+      "details": {
+        "title": "Burn It Down",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+    
+    
+    {
+      "name": "shield-stars",
+      "title": "Shield Stars",
+      "details": {
+        "title": "Shield Stars",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "little-bash",
+      "title": "Little Bash",
+      "details": {
+        "title": "Little Bash",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "unknown-stars",
+      "title": "Unknown Stars",
+      "details": {
+        "title": "Unknown Stars",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "the-champions",
+      "title": "The Champions",
+      "details": {
+        "title": "The Champions",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "thunders-xi",
+      "title": "Thunders XI",
+      "details": {
+        "title": "Thunders XI",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "hunters-xi",
+      "title": "Hunters XI",
+      "details": {
+        "title": "Hunters XI",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "super-stars-xi",
+      "title": "Super Stars XI",
+      "details": {
+        "title": "Super Stars XI",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "royal-players",
+      "title": "Royal Players",
+      "details": {
+        "title": "Royal Players",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "dominator-xi",
+      "title": "Dominator XI",
+      "details": {
+        "title": "Dominator XI",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+    {
+      "name": "haq-fighters",
+      "title": "Haq Fighters",
+      "details": {
+        "title": "Haq Fighters",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+
+
+    {
+      "name": "blazing-warriors",
+      "title": "Blazing Warriors",
+      "details": {
+        "title": "Blazing Warriors",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "strikers-xi",
+      "title": "Strikers XI",
+      "details": {
+        "title": "Strikers XI",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "indian-tigers",
+      "title": "Indian Tigers",
+      "details": {
+        "title": "Indian Tigers",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "english-lions",
+      "title": "English Lions",
+      "details": {
+        "title": "English Lions",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    },
+
+
+    {
+      "name": "gorkhali-champions",
+      "title": "Gorkhali Champions",
+      "details": {
+        "title": "Gorkhali Champions",
+        "TeamLogo": "teamlogo.png",
+        "owner": "Owner Name",
+        "remarks": "Remarks",
+        "TopBatter": "Top Batter Name",
+        "TopBowler": "Top Bowler Name",
+        "Status": "Active",
+        "ActiveCaptain": "Active Captain Name",
+        "ActiveCoach": "Active Coach Name",
+        "RecentParticipation": "Recent Participation"
+      },
+      "achievements": {
+        "Achievementsimg": "achievements.png",
+        "a1": "Achievement 1",
+        "a2": "Achievement 2",
+        "a3": "Achievement 3"
+      },
+      "stats": [
+        { "SrNo": 1, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 2, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 3, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 4, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" },
+        { "SrNo": 5, "scorer": "Scorer Name", "wicketTaker": "Wicket Taker Name", "mostPotM": "Player Name" }    
+      ]
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+  
