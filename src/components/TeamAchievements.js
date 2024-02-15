@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/TeamPage.css';
+import Achievementsimg from '../TeamLogo/achievements.png';
 
 export default function TeamAchievements({ achievements }) { 
   return (
@@ -16,10 +17,13 @@ export default function TeamAchievements({ achievements }) {
           <li>{achievements.a7}</li>
           <li>{achievements.a8}</li>
           <li>{achievements.a9}</li>
+          <li>{achievements.a10}</li>
+          <li>{achievements.a11}</li>
+          <li>{achievements.a12}</li>
           {/* Add more achievements as needed */}
         </ul>
         <div className="achievements-img">
-          <img src={achievements.Achievementsimg} alt="Achievementsimg" />
+          <img src={Achievementsimg} alt="Achievementsimg" />
         </div>
       </div>
     </div>

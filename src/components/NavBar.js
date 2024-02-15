@@ -12,6 +12,9 @@ export default function NavBar(props) {
     setSelectedColor(color);
     document.body.style.backgroundColor = color;
     document.body.style.color = '#fff';
+    document.querySelectorAll('h5').forEach(heading => {
+      heading.style.color = '#fff';
+    });
   };
 
 

@@ -7,7 +7,7 @@ import TeamStats from '../components/TeamStats';
 import data from '../data/teamData.json'; // Import your data from a JSON file
 import ErrorPage from './ErrorPage';
 import { useParams } from 'react-router-dom';
-
+import '../styles/TeamPage.css';
 
 export default function TeamPage({ match }) {
 
