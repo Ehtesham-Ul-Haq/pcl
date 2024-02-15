@@ -14,7 +14,6 @@ export default function TeamList() {
             {/* Displaying a list of teams */}
       <div className='cards-container'>
 
-         {/* Map over teamsArray and render TeamForm components */}
 
               {teamData.map((team) => (
                 <TeamForm

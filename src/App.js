@@ -10,6 +10,7 @@ import './styles/App.css';
 import logoImage from './logo.png';
 import ErrorPage from './pages/ErrorPage';
 import TeamPage from './pages/TeamPage';
+import PlayerPage from './pages/PlayerPage';
 
 
 
@@ -32,7 +33,7 @@ function App() {
                   <Route path="/ErrorPage" element={<ErrorPage />} />
 
                   <Route path="/team/:teamName" element={<TeamPage />} />
-
+                  <Route path="/player/:playerName" element={<PlayerPage />} />
 
                 </Routes>
 

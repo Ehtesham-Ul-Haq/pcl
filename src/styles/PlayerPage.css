@@ -1,0 +1,144 @@
+.container {
+    font-style: italic;
+}
+
+/* player pagenav styling */
+
+nav {
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+}
+
+/* player details styling */
+
+h3 {
+    color: green;
+}
+
+.player-data {
+    margin: 20px;
+}
+
+.player-data h3 {
+    margin: 20px;
+    text-decoration: underline;
+}
+
+strong {
+    /* color: rgb(15, 109, 15); */
+    color: rgb(131, 7, 7);
+}
+
+
+
+.Info-box {
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.player-img {
+    width: 50%;
+}
+
+.player-img img {
+    width: 50%;
+    border: 1px solid;
+    border-radius: 150px;
+}
+
+.player-info {
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    column-gap: 50px;
+    row-gap: 20px;
+}
+
+.info-div {
+    text-align: start;
+}
+
+
+
+
+/*  TeamAchievements styling  */
+
+.player-Achievements-div {
+    padding: 10px;
+}
+
+
+.player-Achievements-div h3{
+    margin: 20px;
+    text-decoration: underline;
+}
+
+.Player-Achievements{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.Player-Achievements ul {
+    list-style-type:decimal;
+    width: 70%;
+}
+
+.Player-Achievements ul li{
+    text-align: start;
+}
+
+.achievements-img {
+    width: 30%;
+}
+
+.achievements-img img {
+    width: 60%;
+}
+
+/*  Team Stats component styling */
+
+
+.stats-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .div-title {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .info-div {
+    margin-bottom: 10px;
+  }
+
+  .stat-item {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .info-div p {
+    margin: 5px 0;
+  }
+  
+  .info-div p strong {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .bi-diamond-fill {
+    margin-right: 5px;
+  }
+  
+  .player-stats {
+    width: 100%;
+  }
+  

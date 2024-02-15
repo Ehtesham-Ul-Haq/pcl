@@ -1,0 +1,185 @@
+[
+    {
+      "name": "babar-azam",
+      "title": "Babar Azam",
+      "details": {
+        "title": "Babar Azam",
+        "PlayerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320448.png",
+        "country": "Pakistan",
+        "role": "Batter",
+        "Status": "Active",
+        "ActiveTeam": "Ottoman Fighters",
+        "TotalPotT": "3",
+        "TotalRuns": "4089",
+        "TotalWickets": "NA",
+        "TotalPotM": "15"
+      },
+      "achievements": {
+        "a1": "Title Winner As Player & Captain",
+        "a2": "Got 4 times Consecutive Player of the Matches Award",
+        "a3": "1st Batter to reach 4000 PCL Runs",
+        "a4": "1st Captain to Score 2000 PCL Runs",
+        "a5": "2nd Highest Runs getter in PCL History",
+        "a6": "NA",
+        "a7": "NA",
+        "a8": "NA",
+        "a9": "NA",
+        "a10": "NA",
+        "a11": "NA",
+        "a12": "NA"
+      },
+      "stats": {
+        "TotalMatches": "300", "TotalPotT": "3", "TotalPotM": "15", 
+        "TotalRuns": "4089", "BatAvg": "15.28", "Ducks": "26", "Fifties": "17", "Hundred": "0", "HighestScore": "94" ,
+        "TotalWickets": "NA", "BowlAvg": "NA", "BowlSR": "NA", "FiveWicketHauls": "NA", "Bbf": "NA" ,
+        "MatchesasCaptain": 156, "Wins": "89", "Lost": "67", "TrophiesWon": "2"     
+      }
+      
+    },
+
+
+
+
+
+    
+    {
+        "name": "sachin-tendulkar",
+        "title": "Sachin Tendulkar",
+        "details": {
+        "title": "Sachin Tendulkar",
+        "PlayerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316400/316486.png",
+        "country": "India",
+        "role": "Batter",
+        "Status": "Retired",
+        "TotalPotT": "5",
+        "TotalRuns": "15921",
+        "TotalWickets": "46",
+        "TotalPotM": "76"
+        },
+        "achievements": {
+        "a1": "Title Winner As Player & Captain",
+        "a2": "Most Runs in Test Cricket",
+        "a3": "Most Centuries in Test and ODI Cricket",
+        "a4": "Highest Individual Score in Test Cricket",
+        "a5": "100 International Centuries",
+        "a6": "Arjuna Award, Padma Shri, Bharat Ratna"
+        },
+        "stats": {
+            "TotalMatches": "300", "TotalPotT": "3", "TotalPotM": "15", 
+            "TotalRuns": "4089", "BatAvg": "15.28", "Ducks": "26", "Fifties": "17", "Hundred": "0", "HighestScore": "94" ,
+            "TotalWickets": "NA", "BowlAvg": "NA", "BowlSR": "NA", "FiveWicketHauls": "NA", "Bbf": "NA" ,
+            "MatchesasCaptain": 156, "Wins": "89", "Lost": "67", "TrophiesWon": "2"     
+          }
+        },
+    {
+        "name": "virat-kohli",
+        "title": "Virat Kohli",
+        "details": {
+        "title": "Virat Kohli",
+        "PlayerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316605.png",
+        "country": "India",
+        "role": "Batter",
+        "Status": "Active",
+        "TotalPotT": "8",
+        "TotalRuns": "12424",
+        "TotalWickets": "4",
+        "TotalPotM": "56"
+        },
+        "achievements": {
+        "a1": "Title Winner As Captain",
+        "a2": "Most Centuries in ODI Cricket",
+        "a3": "Fastest to 8000, 9000, 10000, 11000 ODI Runs",
+        "a4": "Padma Shri, Rajiv Gandhi Khel Ratna"
+        },
+        "stats": {
+            "TotalMatches": "300", "TotalPotT": "3", "TotalPotM": "15", 
+            "TotalRuns": "4089", "BatAvg": "15.28", "Ducks": "26", "Fifties": "17", "Hundred": "0", "HighestScore": "94" ,
+            "TotalWickets": "NA", "BowlAvg": "NA", "BowlSR": "NA", "FiveWicketHauls": "NA", "Bbf": "NA" ,
+            "MatchesasCaptain": 156, "Wins": "89", "Lost": "67", "TrophiesWon": "2"     
+          }
+
+    },
+    
+    
+        {
+            "name": "ricky-ponting",
+            "title": "Ricky Ponting",
+            "details": {
+            "title": "Ricky Ponting",
+            "PlayerImage": "https://images.googlycricket.net/wp-content/uploads/2017/09/Ricky-Ponting-HD-Images.jpg",
+            "country": "Australia",
+            "role": "Batter",
+            "Status": "Retired",
+            "TotalPotT": "4",
+            "TotalRuns": "13378",
+            "TotalWickets": "5",
+            "TotalPotM": "55"
+            },
+            "achievements": {
+            "a1": "Title Winner As Captain",
+            "a2": "Most Wins as Captain in Test Cricket",
+            "a3": "World Cup Winner (1999, 2003, 2007)",
+            "a4": "Most Test Centuries for Australia"
+            },
+            "stats": {
+                "TotalMatches": "300", "TotalPotT": "3", "TotalPotM": "15", 
+                "TotalRuns": "4089", "BatAvg": "15.28", "Ducks": "26", "Fifties": "17", "Hundred": "0", "HighestScore": "94" ,
+                "TotalWickets": "NA", "BowlAvg": "NA", "BowlSR": "NA", "FiveWicketHauls": "NA", "Bbf": "NA" ,
+                "MatchesasCaptain": 156, "Wins": "89", "Lost": "67", "TrophiesWon": "2"     
+              }
+         },
+        
+         {
+            "name": "brian-lara",
+            "title": "Brian Lara",
+            "details": {
+            "title": "Brian Lara",
+            "PlayerImage": "https://www.mykhel.com/thumb/247x100x233/cricket/players/nonopta/4/nonopta-player-2524.1689759307.jpg",
+            "country": "West Indies",
+            "role": "Batter",
+            "Status": "Retired",
+            "TotalPotT": "4",
+            "TotalRuns": "11953",
+            "TotalWickets": "4",
+            "TotalPotM": "48"
+            },
+            "achievements": {
+            "a1": "Title Winner As Captain",
+            "a2": "Highest Individual Score in Test Cricket",
+            "a3": "Most Runs in Test Cricket"
+            },
+            "stats": {
+                "TotalMatches": "300", "TotalPotT": "3", "TotalPotM": "15", 
+                "TotalRuns": "4089", "BatAvg": "15.28", "Ducks": "26", "Fifties": "17", "Hundred": "0", "HighestScore": "94" ,
+                "TotalWickets": "NA", "BowlAvg": "NA", "BowlSR": "NA", "FiveWicketHauls": "NA", "Bbf": "NA" ,
+                "MatchesasCaptain": 156, "Wins": "89", "Lost": "67", "TrophiesWon": "2"     
+              }
+        },
+
+        {
+            "name": "shane-warne",
+            "title": "Shane Warne",
+            "details": {
+            "title": "Shane Warne",
+            "PlayerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319712.png",
+            "country": "Australia",
+            "role": "Bowler",
+            "Status": "Retired",
+            "TotalPotT": "1",
+            "TotalRuns": "3154",
+            "TotalWickets": "708",
+            "TotalPotM": "15"
+            },
+            "achievements": {
+            "a1": "Title Winner",
+            "a2": "Most Test Wickets for Australia",
+            "a3": "Ball of the Century"
+            },
+            "stats": {
+                "TotalMatches": "300", "TotalPotT": "3", "TotalPotM": "15", 
+                "TotalRuns": "4089", "BatAvg": "15.28", "Ducks": "26", "Fifties": "17", "Hundred": "0", "HighestScore": "94" ,
+                "TotalWickets": "NA", "BowlAvg": "NA", "BowlSR": "NA", "FiveWicketHauls": "NA", "Bbf": "NA" ,
+                "MatchesasCaptain": 156, "Wins": "89", "Lost": "67", "TrophiesWon": "2"     
+            }
+        }
+]
