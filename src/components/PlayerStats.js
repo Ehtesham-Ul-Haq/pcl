@@ -5,98 +5,85 @@ export default function PlayerStats({ title, stats }) {
   return (
     <div className='player-stats-container'>
       <h3>{title} &nbsp;Career Stats</h3>
-      <div className='stats-box'>
-        <div className='stats-section'>
-          <h5>General Stats</h5>
-          <div className='stats-list'>
-            <div className='stat-item'>
-              <p><strong>Matches:</strong></p>
-              <p><strong>{stats.TotalMatches}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Player of the Season Awards:</strong></p>
-              <p><strong>{stats.TotalPotT}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Player of the Match Awards:</strong></p>
-              <p><strong>{stats.TotalPotM}</strong></p>
-            </div>
-          </div>
-        </div>
+      <div className='stats-table'>
+        <table>
+          <thead>
+            <tr>
+              <th colSpan="8">PCL Career Stats</th>
+            </tr>
 
-        <div className='stats-section'>
-          <h5>Batting Stats</h5>
-          <div className='stats-list'>
-            <div className='stat-item'>
-              <p><strong>Runs:</strong></p>
-              <p><strong>{stats.TotalRuns}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Batting Average:</strong></p>
-              <p><strong>{stats.BatAvg}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>50s:</strong></p>
-              <p><strong>{stats.Fifties}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>100s:</strong></p>
-              <p><strong>{stats.Hundred}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Highest Score:</strong></p>
-              <p><strong>{stats.HighestScore}</strong></p>
-            </div>
-          </div>
-        </div>
+            <tr>
+              <th colSpan="2">General Stats</th>
+              <th colSpan="2">Batting Stats</th>
+              <th colSpan="2">Bowling Stats</th>
+              <th colSpan="2">Captaincy Stats</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Matches</td>
+              <td>{stats.TotalMatches}</td>
+              <td>Runs</td>
+              <td>{stats.TotalRuns}</td>
+              <td>Wickets</td>
+              <td>{stats.TotalWickets}</td>
+              <td>Matches as Captain</td>
+              <td>{stats.MatchesasCaptain}</td>
+            </tr>
+            <tr>
+              <td>Player of the Season Awards</td>
+              <td>{stats.TotalPotT}</td>
+              <td>Batting Average</td>
+              <td>{stats.BatAvg}</td>
+              <td>Bowling Average</td>
+              <td>{stats.BowlAvg}</td>
+              <td>Wins</td>
+              <td>{stats.Wins}</td>
+            </tr>
+            <tr>
+              <td>Player of the Match Awards</td>
+              <td>{stats.TotalPotM}</td>
+              <td>Ducks</td>
+              <td>{stats.Ducks}</td>
+              <td>Bowling Strike Rate</td>
+              <td>{stats.BowlSR}</td>
+              <td>Lost</td>
+              <td>{stats.Lost}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>50s</td>
+              <td>{stats.Fifties}</td>
+              <td>5 Wicket Hauls</td>
+              <td>{stats.FiveWicketHauls}</td>
+              <td>Trophies Won</td>
+              <td>{stats.TrophiesWon}</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>100s</td>
+              <td>{stats.Hundred}</td>
+              <td>Best Bowling Figure</td>
+              <td>{stats.Bbf}</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>Highest Score</td>
+              <td>{stats.HighestScore}</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
 
-        <div className='stats-section'>
-          <h5>Bowling Stats</h5>
-          <div className='stats-list'>
-            <div className='stat-item'>
-              <p><strong>Wickets:</strong></p>
-              <p><strong>{stats.TotalWickets}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Bowling Average:</strong></p>
-              <p><strong>{stats.BowlAvg}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Bowling SR:</strong></p>
-              <p><strong>{stats.BowlSR}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>5 Wicket Hauls:</strong></p>
-              <p><strong>{stats.FiveWicketHauls}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Best Bowling Figure:</strong></p>
-              <p><strong>{stats.Bbf}</strong></p>
-            </div>
-          </div>
-        </div>
 
-        <div className='stats-section'>
-          <h5>Captaincy Stats</h5>
-          <div className='stats-list'>
-            <div className='stat-item'>
-              <p><strong>Matches as Captain:</strong></p>
-              <p><strong>{stats.MatchesasCaptain}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Wins:</strong></p>
-              <p><strong>{stats.Wins}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Lost:</strong></p>
-              <p><strong>{stats.Lost}</strong></p>
-            </div>
-            <div className='stat-item'>
-              <p><strong>Trophies Won:</strong></p>
-              <p><strong>{stats.TrophiesWon}</strong></p>
-            </div>
-          </div>
-        </div>
+          </tbody>
+        </table>
       </div>
     </div>
   );

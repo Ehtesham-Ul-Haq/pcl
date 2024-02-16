@@ -6,7 +6,7 @@ export default function PlayerDetails({ details }) {
     <div>
       <h3>Player Info</h3>
       <div className='Info-box'>
-        <div className='player-img'>
+        <div className='player-pic'>
           <img src={details.PlayerImage} alt={details.title} />
         </div>
         <div className='player-info'>
