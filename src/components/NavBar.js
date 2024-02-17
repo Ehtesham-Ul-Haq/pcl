@@ -4,6 +4,7 @@ import ColorPalette from './ColorPalette.js';
 import { Link } from 'react-router-dom';
 import teamData from '../data/teamData.json'; // Importing the team data JSON
 import playerData from '../data/playerData.json'; // Importing the Players data JSON
+import SeasonData from '../data/seasonsData.json'; // Importing the Season data JSON
 
 
 export default function NavBar(props) {
@@ -18,11 +19,6 @@ export default function NavBar(props) {
       heading.style.color = '#fff';
     });
   };
-
-  
-
-        const SeasonsArray = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20',
-                            '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40'];
 
 
         const RankingsArray = ['Batting Ranking', 'Bowling Ranking', 'All Rounder Ranking'];
@@ -71,14 +67,14 @@ export default function NavBar(props) {
                         </ul>
                   </li>          
                   <li className="nav-item dropdown">
-                      <Link className="nav-link dropdown dropdown-split h2" to="/All-Tournament" role="button" aria-expanded="false">
+                      <Link className="nav-link dropdown dropdown-split h2" to="/All-Seasons-List" role="button" aria-expanded="false">
                           PCL Seasons
                       </Link>
                         <ul className="dropdown-menu my-dropdown-bg">
 
-                          {SeasonsArray.map((str, index) => (
-                            <li><Link className="dropdown-item my-dropdown-color" style={{borderBottom:'1px solid white'}} key={index} to="/">Season {str}</Link></li>
-                          ))}
+                            {SeasonData.map((season, index) => (
+                                  <li key={index}><Link className="dropdown-item my-dropdown-color" style={{borderBottom:'1px solid white'}} to={`/Season/${season.title}`}>{season.title}</Link></li>
+                              ))}
 
                         </ul>
                   </li>          
