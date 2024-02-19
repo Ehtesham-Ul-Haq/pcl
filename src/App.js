@@ -12,6 +12,8 @@ import ErrorPage from './pages/ErrorPage';
 import TeamPage from './pages/TeamPage';
 import PlayerPage from './pages/PlayerPage';
 import TournamentList from './components/TournamentList';
+import RankingPage from './pages/RankingPage';
+import ContactUs from './components/ContactUs';
 
 
 
@@ -30,10 +32,11 @@ function App() {
                   <Route path="/All-Teams" element={<TeamList />} />
                   <Route path="/All-Players" element={<PlayerList />} />
                   <Route path="/All-Seasons-List" element={<TournamentList />} />
-                  
+                  <Route path="/Top-Rankings" element={<RankingPage />} />
                   <Route path="/Season/:seasonName" element={<TournamentPage />} />
 
                   <Route path="/ErrorPage" element={<ErrorPage />} />
+                  <Route path="/Contact-Us" element={<ContactUs />} />
 
                   <Route path="/team/:teamName" element={<TeamPage />} />
                   <Route path="/player/:playerName" element={<PlayerPage />} />

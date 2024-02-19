@@ -36,7 +36,7 @@ export default function SeasonStats({stats , title}) {
   return (
     <div>
       <h3>{title}&nbsp; Statistics</h3>
-      <table>
+      <table className='season-stats-table'>
         <thead>
             <tr>
               <th onClick={() => handleSort('name')}>Player {sortField === 'name' && renderSortIcon('name')}</th>
@@ -75,7 +75,7 @@ export default function SeasonStats({stats , title}) {
         </tbody>
       </table>
       <div><p><strong>Note:</strong></ p>
-      <p>Stats can be sort by clicking the category.</p>
+      <p>Stats can be sorted by clicking the category.</p>
       <p>Avg is Average, SR is StrikeRate, BBF is Best Bowling Figure</p></div>
     </div>
   )

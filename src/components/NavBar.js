@@ -21,9 +21,6 @@ export default function NavBar(props) {
   };
 
 
-        const RankingsArray = ['Batting Ranking', 'Bowling Ranking', 'All Rounder Ranking'];
-
-
   return (
     <div>
                 
@@ -74,21 +71,14 @@ export default function NavBar(props) {
 
                             {SeasonData.map((season, index) => (
                                   <li key={index}><Link className="dropdown-item my-dropdown-color" style={{borderBottom:'1px solid white'}} to={`/Season/${season.title}`}>{season.title}</Link></li>
-                              ))}
+                            ))}
 
                         </ul>
                   </li>          
                   <li className="nav-item dropdown">
-                      <Link className="nav-link dropdown dropdown-split h2" to="/Rankings" role="button" aria-expanded="false">
+                      <Link className="nav-link dropdown dropdown-split h2" to="/Top-Rankings" role="button" aria-expanded="false">
                           PCL Rankings
                       </Link>
-                        <ul className="dropdown-menu my-dropdown-bg">
-
-                          {RankingsArray.map((str, index) => (
-                            <li><Link className="dropdown-item my-dropdown-color" style={{borderBottom:'1px solid white'}} key={index} to="/">{str}</Link></li>
-                          ))}
-
-                        </ul>
                   </li>          
 
 

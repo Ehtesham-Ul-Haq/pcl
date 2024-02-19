@@ -1,0 +1,68 @@
+[
+    {
+      "rankingType": "Batting Ranking",
+      "rankings": [
+        { "rank": 1, "player": "Virat Kohli", "country": "India", "rating": 887 },
+        { "rank": 2, "player": "Rohit Sharma", "country": "India", "rating": 873 },
+        { "rank": 3, "player": "Babar Azam", "country": "Pakistan", "rating": 834 },
+        { "rank": 4, "player": "Kane Williamson", "country": "New Zealand", "rating": 812 },
+        { "rank": 5, "player": "Steve Smith", "country": "Australia", "rating": 810 }
+      ]
+    },
+    {
+      "rankingType": "Bowling Ranking",
+      "rankings": [
+        { "rank": 1, "player": "Pat Cummins", "country": "Australia", "rating": 908 },
+        { "rank": 2, "player": "Ravichandran Ashwin", "country": "India", "rating": 848 },
+        { "rank": 3, "player": "Tim Southee", "country": "New Zealand", "rating": 824 },
+        { "rank": 4, "player": "Josh Hazlewood", "country": "Australia", "rating": 816 },
+        { "rank": 5, "player": "Shaheen Afridi", "country": "Pakistan", "rating": 810 }
+      ]
+    },
+    {
+      "rankingType": "All Rounder Ranking",
+      "rankings": [
+        { "rank": 1, "player": "Ben Stokes", "country": "England", "rating": 407 },
+        { "rank": 2, "player": "Ravindra Jadeja", "country": "India", "rating": 397 },
+        { "rank": 3, "player": "Shakib Al Hasan", "country": "Bangladesh", "rating": 356 },
+        { "rank": 4, "player": "Jason Holder", "country": "West Indies", "rating": 334 },
+        { "rank": 5, "player": "Kyle Jamieson", "country": "New Zealand", "rating": 319 }
+      ]
+    },
+    {
+      "rankingType": "Team Ranking",
+      "rankings": [
+        { "rank": 1, "team": "Green Stars", "rating": 123 },
+        { "rank": 2, "team": "Ottoman Fighters", "rating": 119 },
+        { "rank": 3, "team": "Vikrians Stars", "rating": 115 },
+        { "rank": 4, "team": "Super Gladiators", "rating": 112 },
+        { "rank": 5, "team": "RedSun", "rating": 108 },
+        { "rank": 6, "team": "Rex Killers", "rating": 105 },
+        { "rank": 7, "team": "Young Stars", "rating": 103 },
+        { "rank": 8, "team": "Conquerors XI", "rating": 100 },
+        { "rank": 9, "team": "Cricket Warriors", "rating": 98 },
+        { "rank": 10, "team": "Street Knights", "rating": 95 },
+        { "rank": 11, "team": "XI Stars", "rating": 92 },
+        { "rank": 12, "team": "Tiger Return", "rating": 90 },
+        { "rank": 13, "team": "King Fighters", "rating": 88 },
+        { "rank": 14, "team": "Shinning Stars", "rating": 85 },
+        { "rank": 15, "team": "Burn It Down", "rating": 83 },
+        { "rank": 16, "team": "Shield Stars", "rating": 80 },
+        { "rank": 17, "team": "Little Bash", "rating": 78 },
+        { "rank": 18, "team": "Unknown Stars", "rating": 75 },
+        { "rank": 19, "team": "The Champions", "rating": 73 },
+        { "rank": 20, "team": "Thunders XI", "rating": 70 },
+        { "rank": 21, "team": "Hunters XI", "rating": 68 },
+        { "rank": 22, "team": "Super Stars XI", "rating": 65 },
+        { "rank": 23, "team": "Royal Players", "rating": 63 },
+        { "rank": 24, "team": "Dominators XI", "rating": 60 },
+        { "rank": 25, "team": "Haq Fighters", "rating": 58 },
+        { "rank": 26, "team": "Blazing Warriors", "rating": 55 },
+        { "rank": 27, "team": "Strikers XI", "rating": 53 },
+        { "rank": 28, "team": "Indian Tigers", "rating": 50 },
+        { "rank": 29, "team": "English Lions", "rating": 48 },
+        { "rank": 30, "team": "Gorkhali Champions", "rating": 45 }
+      ]
+    }
+  ]
+  

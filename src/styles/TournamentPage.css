@@ -53,15 +53,12 @@
 /* season stats component styling */
 
 
-/* seasonStats.css */
-
-/* Table styles */
 .season-Stats-div h3 {
     margin: 20px;
     text-decoration: underline;
 }
 
-table {
+.season-stats-table {
     width: 100%;
     border-collapse: collapse;
     font-family: 'Roboto', sans-serif;
@@ -70,39 +67,39 @@ table {
     box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
   }
   
-  th, td {
+  .season-stats-table th, td {
     padding: 15px;
     text-align: left;
     border-bottom: 2px solid #e0e0e0;
-    border-right: 1px solid #e0e0e0; /* Add right border to th and td */
+    border-right: 1px solid #e0e0e0; 
     text-wrap: nowrap;
   }
   
-  td {
+  .season-stats-table td {
     color: #000000;
   }
 
-  th {
+  .season-stats-table th {
     cursor: pointer;
     width: 7%;
-    background-image: linear-gradient(120deg, #333333, #000000); /* Gradient background */
+    background-image: linear-gradient(120deg, #333333, #000000); 
     color: #fff;
     font-weight: bold;
     position: relative;
     transition: background-image 0.3s ease;
-    border-radius: 12px 0 0 0; /* Rounded top-left border for th */
+    border-radius: 12px 0 0 0; 
   }
   
-  th:last-child, td:last-child {
-    border-right: none; /* Remove right border from last th and td */
+  .season-stats-table th:last-child, td:last-child {
+    border-right: none; 
   }
   
-  th:hover {
-    background-image: linear-gradient(120deg, #221c1d, #210a03); /* Darker gradient on hover */
+  .season-stats-table th:hover {
+    background-image: linear-gradient(120deg, #221c1d, #210a03); 
   }
   
-  /* Add arrow icons to headers when sorted */
-  th.sorted-asc::after,
+  
+  .season-stats-table th.sorted-asc::after,
   th.sorted-desc::after {
     content: "";
     position: absolute;
@@ -116,11 +113,11 @@ table {
     transition: border-color 0.3s ease;
   }
   
-  th.sorted-asc::after {
+  .season-stats-table th.sorted-asc::after {
     border-bottom: 6px solid #fff;
   }
   
-  th.sorted-desc::after {
+  .season-stats-table th.sorted-desc::after {
     border-top: 6px solid #fff;
   }
   
