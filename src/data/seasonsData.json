@@ -15,15 +15,15 @@
         "Total50s": "Total 50s",
         "Total100s": "Total 100s",
         "Total5fers": "Total 5fers",
-        "IndividualBBF": "Individual Best Bowling Figure",
+        "IndividualBBF": "Individual Bbf",
         "IndividualHighestScorer": "Individual Highest Scorer",
-        "MostPotM": "Most Player of the Match Award getter"
+        "MostPotM": "Most PotM Award"
       },
 
       "SeasonStats": {
         "players": [
           {
-            "PlayerName": "Alex Hales",
+            "name": "Alex Hales",
             "Matches": 10,
             "Runs": 550,
             "BatAverage": 55.0,
@@ -89,15 +89,15 @@
         "Total50s": "Total 50s",
         "Total100s": "Total 100s",
         "Total5fers": "Total 5fers",
-        "IndividualBBF": "Individual Best Bowling Figure",
+        "IndividualBBF": "Individual bbf",
         "IndividualHighestScorer": "Individual Highest Scorer",
-        "MostPotM": "Most Player of the Match Award getter"
+        "MostPotM": "Most PotM Award"
       },
 
       "SeasonStats": {
         "players": [
           {
-            "PlayerName": "Alex Hales",
+            "name": "Alex Hales",
             "Matches": 10,
             "Runs": 550,
             "BatAverage": 55.0,

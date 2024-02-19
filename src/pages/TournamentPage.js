@@ -6,7 +6,7 @@ import SeasonStats from '../components/SeasonStats';
 import data from '../data/seasonsData.json'; // Import your seasons data from a JSON file
 import ErrorPage from './ErrorPage';
 import { useParams } from 'react-router-dom';
-import '../styles/PlayerPage.css';
+import '../styles/TournamentPage.css';
 
 
 export default function TournamentPage( {match} ) {
@@ -50,7 +50,7 @@ export default function TournamentPage( {match} ) {
         <SeasonRecords records={seasonData.records} />
       </div>
       <div className="season-Stats-div" ref={statsRef}>
-        <SeasonStats stats={seasonData.stats}  title={seasonData.title} />
+        <SeasonStats stats={seasonData.SeasonStats}  title={seasonData.title} />
       </div>
     </div>
   )
